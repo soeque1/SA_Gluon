@@ -1,0 +1,17 @@
+.DS_Store
+*.pyc
+__pycache__
+pytest_cache
+.pytest_cache
+.ipynb_checkpoints
+*.tar
+*.tar.gz
+*.stats
+*.lprof
+build/
+release/
+keras-apache-mxnet/benchmark/core
+*.tar
+.git
+.github
+*.log
